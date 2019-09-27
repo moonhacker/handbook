@@ -88,6 +88,16 @@ the onboarding process.
 1. Announce new Maintainers in the next [newsletter](https://carpentries.org/newsletter/).
 
 
+## Maintainer Offboarding
+
+When a Carpentries Maintainer steps down from their role, they can be removed from The Carpentries systems.
+
+1. Remove them from the [Maintainers email list](https://carpentries.topicbox.com/groups/maintainers).
+1. Remove them from the Maintainers Slack channel.
+1. Remove their [badge in AMY](../workshop_administration/amy_manual.html#issuing-badges) and make a note in the comments section.
+1. Remove them from the appropriate team for [Software Carpentry][SWC GH Lesson Maintainer Teams], [Data Carpentry][DC GH Lesson Maintainer Teams], [Library Carpentry][LC GH Lesson Maintainer Teams], or [The Carpentries][The Carpentries GH Lesson Maintainer Teams] Lesson Maintainers. 
+
+
 [SWC GH Lesson Maintainer Teams]: https://github.com/orgs/swcarpentry/teams/lesson-maintainers
 [DC GH Lesson Maintainer Teams]: https://github.com/orgs/datacarpentry/teams/lesson-maintainers
 [LC GH Lesson Maintainer Teams]: https://github.com/orgs/librarycarpentry/teams/lesson-maintainers
