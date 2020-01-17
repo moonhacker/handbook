@@ -98,6 +98,9 @@ To improve traffic to The Carpentries websites, a number of developer tools can 
 - <https://sitechecker.pro>
 - <https://www.seotesteronline.com/>
 
+Or you can use different seo tools build for the pupose of optimizing website for search engines. Here from you can get a list of best seo tools.
+- <https://groupbuyanytool.com/>
+
 In addition, Google provides guidance to developers to enhance their web presence (including advice on structured data) and a keyword planner to assist with keyword generation:
 
 - <https://developers.google.com/search/> 
